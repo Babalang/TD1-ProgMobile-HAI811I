@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Exo3_validate_input">Valider</string>
+    <string name="app_name">Exercice 2</string>
+    <string name="Exo3_Name_input">Nom</string>
+    <string name="Exo3_Surname_input">Prénom</string>
+    <string name="Exo3_Age_input">Age</string>
+    <string name="Exo3_Competences_input">Domaine de compétence</string>
+    <string name="Exo3_NumTel_input">Numéro de téléphone</string>
+    <string name="Exo5_dialog_txt">Envoyer le formulaire ?</string>
+    <string name="Exo5_valid_button">Confirmer</string>
+    <string name="Exo5_valid_not_button">Annuler</string>
+    <string name="appeler">Appeler</string>
+    <string name="Title">Hello World!</string>
+    <string name="Exo7_TrainTitle">Horaires</string>
+    <string name="Exo7_Research">Rechercher</string>
+    <string name="Exo7_Départ">Départ</string>
+    <string name="Exo7_Arrivée">Arrivée</string>
+    <string name="hub_title">TP1 : Les Bases d\'Android</string>
+    <string name="hub_exercice2_helloWorld">Exercice 2 : Hello World</string>
+    <string name="hub_exercice3_XML">Exercice 3 : Interface simple (XML)</string>
+    <string name="hub_exercice3_Java">Exercice 3 : Interface simple (JAVA)</string>
+    <string name="hub_exercice6_intent">Exercice 6 : Intent explicite</string>"
+    <string name="hub_exercice7_implicite">Exercice 7 : Intent implicite</string>"
+    <string name="hub_exercice8_appliTrain">Exercice 8 : Application simple pour consulter les horaires de trains</string>"
+    <string name="hub_exercice9_planning">Exercice 9 : Application simple d\'agenda</string>"
+    <string name="home_button">Retour au Hub</string>
+    <string name="Exo3_Title">Formulaire</string>
+    <string name="Exo6_validate">OK</string>
+
+</resources>
