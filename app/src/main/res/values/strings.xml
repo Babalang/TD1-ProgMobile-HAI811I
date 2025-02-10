@@ -27,4 +27,10 @@
     <string name="home_button">Retour au Hub</string>
     <string name="Exo3_Title">Formulaire</string>
     <string name="Exo6_validate">OK</string>
+    <string name="Exo9_Title" translatable="false">Agenda</string>
+    <string name="Exo9_addEvent" translatable="false">+</string>
+    <string name="Exo9_titre_dialog">Entrez un évènement :</string>
+    <string name="Exo9_event1">Meeting avec l\'équipe</string>
+    <string name="Exo9_event2">Déjeuner avec les clients</string>
+    <string name="Exo9_event3">Présentation du projet</string>
 </resources>

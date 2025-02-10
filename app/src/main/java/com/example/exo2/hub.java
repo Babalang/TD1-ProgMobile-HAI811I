@@ -42,7 +42,7 @@ public class hub extends Activity {
         });
         Button exo9_button = findViewById(R.id.exo9_button);
         exo9_button.setOnClickListener(v -> {
-            Intent intent = new Intent(hub.this, applitrain.class);
+            Intent intent = new Intent(hub.this, agenda.class);
             startActivity(intent);
         });
 
