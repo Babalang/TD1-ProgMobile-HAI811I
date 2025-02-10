@@ -30,6 +30,9 @@ public class agenda extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.agenda);
         CalendarView cv = findViewById(R.id.calendar);
+        Year = LocalDate.now().getYear();
+        Month = LocalDate.now().getMonthValue();
+        Day = LocalDate.now().getDayOfMonth();
         ListView lv = findViewById(R.id.listEvent);
         events = new HashMap<>();
         addEvent(String.valueOf(LocalDate.now()), getString(R.string.Exo9_event1));
