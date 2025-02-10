@@ -17,14 +17,12 @@ public class intent_implicite extends Activity {
         TextView text = findViewById(R.id.text);
         text.setText(getIntent().getStringExtra("NUMTEL"));
         Button button1 = findViewById(R.id.Button_validate);
-        button1.setText(R.string.appeler);
         button1.setOnClickListener(v -> {
             Intent intent = new Intent(Intent.ACTION_DIAL);
             intent.setData(Uri.parse("tel:" + getIntent().getStringExtra("NUMTEL")));
             startActivity(intent);
         });
         Button button = findViewById(R.id.Button_cancel);
-        button.setText(R.string.Exo5_valid_not_button);
         button.setOnClickListener(v -> finish());
     }
 }
